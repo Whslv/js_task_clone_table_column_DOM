@@ -1,6 +1,5 @@
 'use strict';
 
-// write your code here
 const trArray = document.querySelectorAll('tr');
 
 function insert(array) {
